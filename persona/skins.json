@@ -1,0 +1,294 @@
+{
+  "skins": [
+    {
+      "localization_name": "MojangCape(Classic)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "Mojang_Classic.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MojangCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "Mojang_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MojangStudios",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "Mojang_Studios_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MINECON2011",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "MINECON_2011_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MINECON2012",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "MINECON_2012_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MINECON2013",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "MINECON_2013_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MINECON2015",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "MINECON_2015_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MINECON2016",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "MINECON_2016_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BaconCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "Bacon_Cape.png",
+      "type": "free"
+    },
+
+    {
+      "localization_name": "MilionthCustomer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "Millionth_Customer_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "dBCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "DannyBstyles's_Cape.png",
+      "type": "free"
+    },    
+    {
+      "localization_name": "SnowmanCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "JulianClark's_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "JapaneseTranslatorCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "Cheapsh0t's_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SpadeCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "MrMessiah's_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PrismarineCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "Prismarine_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TurtleCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "Turtle_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BirthdayCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "PartyCape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ValentineCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "Valentine_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TranslatorCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "CrowdinTranslatorCape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ChineseTranslatorCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "ChineseTranslatorCape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ScrollsChampionCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "Scrolls_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CobaltCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "Cobalt_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MojiraModeratorCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "BugTracker_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RealmsMapMakerCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "MapmakerCape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MigratorCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "MSCapeC.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CherryBlossomCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "Cherry.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Christmas2010Cape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "Christmas_2010_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NewYear2011Cape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "New_Years_2011_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SnifferCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "UnknownCape1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ICU1Cape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "ICU1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ICU2Cape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "ICU2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FrogCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "FrogAPI.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FoundersCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "MINECON_2019_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ThePanCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "Pancape_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ProgressPrideCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "ProgressPrideCape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VanillaCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "Vanilla_Cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FollowersCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "TikTok.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PurpleHeartCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "Twitch_texture.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "15thAnniversaryCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "15Year_texture_JE.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MCC15thYearCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "MCChampionship_cape_texture_JE.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MinecraftExperienceCape",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "MinecraftExperienceVillagerRescue_texture.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "OficialCapes",
+  "localization_name": "OficialCapes"
+}
