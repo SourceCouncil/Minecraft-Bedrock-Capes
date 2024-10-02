@@ -4,7 +4,7 @@
       "localization_name": "MojangCape(Classic)",
       "geometry": "geometry.humanoid.custom",
       "texture": "skin.png",
-      "cape": "Mojang_Classic.png",
+      "cape": "Mojang_Classic_Cape.png",
       "type": "free"
     },
     {
